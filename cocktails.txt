@@ -1,0 +1,12 @@
+martini:gin,30;dry vermouth,10
+margarita:tequila,50;triple sec,20;lime juice,30
+old fashioned:bourbon,50;sugar cube,1;angostura bitters,2dashes;water,1tsp
+negroni:gin,30;campari,30;sweet vermouth,30
+daiquiri:white rum,45;lime juice,25;simple syrup,15
+mojito:rum,50;mint,10g;sugar,2tsp;lime,1;soda,100
+cosmopolitan:vodka,40;triple sec,15;cranberry juice,30;lime juice,10
+whiskey sour:bourbon,45;lemon juice,30;simple syrup,15;egg white,1;angostura bitters,2dashes
+pina colada:white rum,50;coconut cream,30;pineapple juice,90;pineapple slice,1;cherry,1
+bloody mary:vodka,45;tomato juice,90;lemon juice,15;worcestershire sauce,2dashes;tabasco,2dashes;celery salt,pinch;pepper,pinch;celery stick,1
+mai tai:white rum,30;dark rum,30;lime juice,20;triple sec,15;orgeat syrup,10;simple syrup,10
+whisky highball:whisky,30;soda,100
